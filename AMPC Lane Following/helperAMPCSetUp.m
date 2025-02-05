@@ -9,7 +9,7 @@
 %% ------------------------------------------------------------------------
 %% General Model Parameters
 Ts = 0.1;  % Simulation sample time                (s)
-scenarioTime=300;  % scenario time (s) to make a round set the time 480s
+scenarioTime=500;  % scenario time (s) to make a round set the time 480s
 addpath('simulink files');
 
 %% controller object
